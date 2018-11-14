@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\mpi_00_1_v2\mpi_00\main.cpp(243): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MPI_00.vcxproj -> C:\MPI_00_1_v2\x64\Debug\MPI_00.exe
+  MPI_00.vcxproj -> C:\MPI_00_1_v2\x64\Debug\MPI_00.pdb (Full PDB)
